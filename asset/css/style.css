@@ -1,0 +1,13 @@
+body{
+    background-image: url(../images/4K-B.jpg);
+
+}
+nav{
+    align-items: center;
+    display: flex;
+    width: 100%;
+    padding-right:15px;
+}
+.con1{
+    align-items: center;
+}

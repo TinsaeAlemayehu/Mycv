@@ -1,0 +1,15 @@
+h3{
+    text-transform: uppercase;
+    font-size: 25px;
+    font-style: bold;
+    font-family: 'Courier New', Courier, monospace;
+    border-bottom: solid 8px navajowhite;
+    padding-bottom: 15px;
+
+}
+img{
+    float: left;
+    width: 30%;
+    margin: 1.6%;
+    height: 680px;
+}
